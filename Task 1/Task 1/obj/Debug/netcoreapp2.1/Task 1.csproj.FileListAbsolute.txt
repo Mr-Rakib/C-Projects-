@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\bin\Debug\netcoreapp2.1\Task 1.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\bin\Debug\netcoreapp2.1\Task 1.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\bin\Debug\netcoreapp2.1\Task 1.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\bin\Debug\netcoreapp2.1\Task 1.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\bin\Debug\netcoreapp2.1\Task 1.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Task 1\Task 1\obj\Debug\netcoreapp2.1\Task 1.pdb
