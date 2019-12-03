@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\bin\Debug\netcoreapp2.1\firstApp.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\bin\Debug\netcoreapp2.1\firstApp.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\bin\Debug\netcoreapp2.1\firstApp.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\bin\Debug\netcoreapp2.1\firstApp.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\bin\Debug\netcoreapp2.1\firstApp.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\firstApp\firstApp\obj\Debug\netcoreapp2.1\firstApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\bin\Debug\netcoreapp2.1\Custom Exception.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\bin\Debug\netcoreapp2.1\Custom Exception.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\bin\Debug\netcoreapp2.1\Custom Exception.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\bin\Debug\netcoreapp2.1\Custom Exception.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\bin\Debug\netcoreapp2.1\Custom Exception.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Custom Exception\Custom Exception\obj\Debug\netcoreapp2.1\Custom Exception.pdb

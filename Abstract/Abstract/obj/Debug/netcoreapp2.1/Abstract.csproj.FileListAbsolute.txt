@@ -1,0 +1,10 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\bin\Debug\netcoreapp2.1\Abstract.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Abstract\Abstract\obj\Debug\netcoreapp2.1\Abstract.pdb
