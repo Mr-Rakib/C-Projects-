@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\bin\Debug\netcoreapp2.1\Some Collection.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\bin\Debug\netcoreapp2.1\Some Collection.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\bin\Debug\netcoreapp2.1\Some Collection.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\bin\Debug\netcoreapp2.1\Some Collection.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\bin\Debug\netcoreapp2.1\Some Collection.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Some Collection\Some Collection\obj\Debug\netcoreapp2.1\Some Collection.csprojAssemblyReference.cache

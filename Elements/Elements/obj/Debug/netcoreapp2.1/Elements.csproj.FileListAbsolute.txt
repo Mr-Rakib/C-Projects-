@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\bin\Debug\netcoreapp2.1\Elements.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\bin\Debug\netcoreapp2.1\Elements.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\bin\Debug\netcoreapp2.1\Elements.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\bin\Debug\netcoreapp2.1\Elements.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\bin\Debug\netcoreapp2.1\Elements.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\Elements\Elements\obj\Debug\netcoreapp2.1\Elements.pdb
