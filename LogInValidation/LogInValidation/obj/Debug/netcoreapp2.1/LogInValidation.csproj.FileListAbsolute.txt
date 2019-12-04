@@ -1,0 +1,11 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\bin\Debug\netcoreapp2.1\LogInValidation.deps.json
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\bin\Debug\netcoreapp2.1\LogInValidation.runtimeconfig.json
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\bin\Debug\netcoreapp2.1\LogInValidation.runtimeconfig.dev.json
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\bin\Debug\netcoreapp2.1\LogInValidation.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\bin\Debug\netcoreapp2.1\LogInValidation.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.AssemblyInfoInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.AssemblyInfo.cs
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.dll
+C:\Users\Tarif\Documents\RAKIB HASAN\LogInValidation\LogInValidation\obj\Debug\netcoreapp2.1\LogInValidation.pdb
