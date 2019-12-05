@@ -1,0 +1,13 @@
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.exe.config
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.exe
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.pdb
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.csprojAssemblyReference.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.csproj.CoreCompileInputs.cache
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.exe
+C:\Users\Tarif\Documents\RAKIB HASAN\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.pdb
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.exe.config
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.exe
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\bin\Debug\EmployeeManagementSystem File.pdb
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.csprojAssemblyReference.cache
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.exe
+G:\C # Projects\EmployeeManagementSystem File\EmployeeManagementSystem File\obj\Debug\EmployeeManagementSystem File.pdb
